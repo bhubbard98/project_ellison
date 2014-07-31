@@ -90,7 +90,6 @@ GEM
     mime-types (1.25.1)
     minitest (4.7.5)
     multi_json (1.10.1)
-    pg (0.17.1)
     polyglot (0.3.5)
     posix-spawn (0.3.8)
     pry (0.9.12.6)
@@ -187,7 +186,6 @@ DEPENDENCIES
   jazz_hands
   jbuilder (~> 1.2)
   jquery-rails
-  pg
   quiet_assets
   rails (= 4.0.4)
   rails_12factor
