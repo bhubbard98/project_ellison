@@ -13,3 +13,17 @@
 
  *= require_tree .
  */
+
+h1 {
+	text-shadow: 1px 1px #000000;
+	letter-spacing: 1px;
+	text-align: right;
+	// border-style:solid;
+}
+
+h6 {
+	text-shadow: 1px #000000;
+	letter-spacing: 1px;
+	text-align: left;
+	padding-top: 10px;
+}
