@@ -35,7 +35,8 @@ end
 group :development do
   gem "better_errors"
   gem "binding_of_caller"
-  gem 'jazz_hands'
+	gem 'jazz_hands', github: 'nixme/jazz_hands', branch: 'bring-your-own-debugger'
+	gem 'pry-byebug'
   gem 'quiet_assets'
 end
 
