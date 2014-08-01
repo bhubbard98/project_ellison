@@ -24,6 +24,9 @@ h1 {
 h6 {
 	text-shadow: 1px #000000;
 	letter-spacing: 1px;
-	text-align: left;
-	padding-top: 10px;
+	text-align: left;	
+}
+
+#top-row {
+	margin-top: 100rem;
 }
