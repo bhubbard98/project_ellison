@@ -18,15 +18,19 @@ h1 {
 	text-shadow: 1px 1px #000000;
 	letter-spacing: 1px;
 	text-align: right;
-	// border-style:solid;
+	border: 1px solid #000000;
+
 }
 
-h6 {
+#top-left {
 	text-shadow: 1px #000000;
 	letter-spacing: 1px;
-	text-align: left;	
+	text-align: left;
+	padding-top: 10px;
+	border: 1px solid #000000;
 }
 
-#top-row {
-	margin-top: 100rem;
+.side-nav{
+	border: 1px solid #000000;
 }
+
