@@ -21,7 +21,7 @@
 // $base-font-size: 100%;
 
 // The $base-font-size is 100% while $base-line-height is 150%
-// $base-line-height: 150%;
+ $base-line-height: 150%;
 
 // We use this to control whether or not CSS classes come through in the gem files.
 // $include-html-classes: true;
@@ -298,7 +298,7 @@ $primary-color: #008CBA;
 
 // We use this to control the maximum number of block grid elements per row
 // $block-grid-elements: 12;
-// $block-grid-default-spacing: rem-calc(20);
+// block-grid-default-spacing: rem-calc(20);
 // $align-block-grid-to-grid: false;
 
 
@@ -951,7 +951,7 @@ $magellan-padding: 0 !important;
 // $include-html-nav-classes: $include-html-classes;
 
 // We use this to control padding.
-// $side-nav-padding: rem-calc(14 0);
+$side-nav-padding: rem-calc(14 0);
 
 // We use these to control list styles.
 // $side-nav-list-type: none;
@@ -978,8 +978,8 @@ $magellan-padding: 0 !important;
 // $side-nav-heading-text-transform: uppercase;
 
 // We use these to control border styles
-// $side-nav-divider-size: 1px;
-// $side-nav-divider-style: solid;
+$side-nav-divider-size: 1px;
+$side-nav-divider-style: solid;
 // $side-nav-divider-color: scale-color(#fff, $lightness: 10%);
 
 // Split Buttons
